@@ -1,0 +1,21 @@
+This program will print 1000 integers that all range between numbers 1 through 10!
+
+Here is a frequency report for the numbers in this array:
+
+0 appears 98 times
+1 appears 86 times
+2 appears 107 times
+3 appears 93 times
+4 appears 96 times
+5 appears 95 times
+6 appears 91 times
+7 appears 83 times
+8 appears 80 times
+9 appears 87 times
+10 appears 85 times
+
+Now let's find the average of the numbers in this array!
+
+The average for this set of numbers is: 4
+
+End of Job!
